@@ -16,7 +16,8 @@ has_children: false
 | ---- |
 | [AnduinOS](https://www.anduinos.com/) |
 | GitHub / [AnduinOS](https://github.com/Anduin2017/AnduinOS) |
-| AnduinOS / [Community](https://www.anduinos.com/) |
+| GitLab / [AnduinOS](https://gitlab.aiursoft.cn/anduin/anduinos) |
+| AnduinOS / [Community](https://github.com/Anduin2017/AnduinOS/discussions) |
 | AnduinOS / [Download](https://download.anduinos.com/) |
 
 
