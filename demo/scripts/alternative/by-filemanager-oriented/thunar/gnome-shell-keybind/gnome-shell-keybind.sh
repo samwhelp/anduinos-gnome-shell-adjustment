@@ -378,6 +378,49 @@ mod_gnome_shell_config_for_empty_switch_windows () {
 	return 0
 }
 
+
+mod_gnome_shell_config_for_conflict_adjustment () {
+
+
+	##
+	## ## Adjust for [Window / Switch] (conflict `Super+s`)
+	##
+
+	#gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>s']"
+	gsettings set org.gnome.settings-daemon.plugins.media-keys search "['<Super>F2']"
+
+
+	##
+	## ## Adjust for [Window / Close] (conflict `Super+q`)
+	##
+
+	dconf write /org/gnome/shell/extensions/dash-to-panel/shortcut "['<Super>0']"
+	dconf write /org/gnome/shell/extensions/dash-to-panel/shortcut-text "'<Super>0'"
+
+
+	##
+	## ## Adjust for [Screenshot / Recording] (conflict `Super+v`)
+	##
+
+	#dconf write /org/gnome/shell/extensions/clipboard-indicator/toggle-menu "['<Super>v']"
+	#dconf write /org/gnome/shell/extensions/clipboard-indicator/toggle-menu "['<Super><Control>v']"
+
+
+	##
+	## ## Adjust for [Window / Switch] (conflict `Super+Esc`)
+	##
+
+	#gsettings set org.gnome.mutter.keybindings cancel-input-capture "['<Super><Shift>Escape']"
+	#gsettings set org.gnome.mutter.wayland.keybindings restore-shortcuts "['<Super>Escape']"
+	gsettings set org.gnome.mutter.wayland.keybindings restore-shortcuts "['<Super><Control>Escape']"
+
+
+
+
+	return 0
+}
+
+
 mod_gnome_shell_config_for_system_config_quick () {
 
 
@@ -394,7 +437,7 @@ mod_gnome_shell_config_for_system_config_quick () {
 mod_gnome_shell_config_for_favorite_apps () {
 
 
-	gsettings set org.gnome.shell favorite-apps "['thunar.desktop', 'sublime_text.desktop', 'firefox_firefox.desktop', 'xfce4-terminal.desktop', 'org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop']"
+	gsettings set org.gnome.shell favorite-apps "['thunar.desktop', 'sublime_text.desktop', 'firefox-esr.desktop', 'xfce4-terminal.desktop', 'org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop']"
 
 
 	return 0
@@ -481,12 +524,14 @@ mod_gnome_shell_config () {
 
 
 
-	mod_gnome_shell_extension_config_for_dash_to_dock
+	#mod_gnome_shell_extension_config_for_dash_to_dock
 
 	mod_gnome_shell_config_for_favorite_apps
 
 
 
+
+	mod_gnome_shell_config_for_conflict_adjustment
 
 	mod_gnome_shell_config_for_empty_switch_windows
 
