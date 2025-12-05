@@ -379,7 +379,7 @@ mod_gnome_shell_config_for_empty_switch_windows () {
 }
 
 
-mod_gnome_shell_config_for_conflict_adjustment () {
+mod_gnome_shell_config_for_conflict_resolution () {
 
 
 	##
@@ -524,16 +524,16 @@ mod_gnome_shell_config () {
 
 
 
+	mod_gnome_shell_config_for_empty_switch_windows
+	
+	mod_gnome_shell_config_for_conflict_resolution
+
+
+
+
 	#mod_gnome_shell_extension_config_for_dash_to_dock
 
 	mod_gnome_shell_config_for_favorite_apps
-
-
-
-
-	mod_gnome_shell_config_for_conflict_adjustment
-
-	mod_gnome_shell_config_for_empty_switch_windows
 
 
 
