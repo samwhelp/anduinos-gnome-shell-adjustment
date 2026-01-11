@@ -81,10 +81,15 @@ sys_gnome_shell_extensions_each_install_via_gext () {
 
 	local the_extension_id="${1}"
 
-	echo
-	echo gext -F install "${the_extension_id}"
-	gext -F install "${the_extension_id}"
-	echo
+
+	if [ "${ONLY_SWITCH}" != "true" ]; then
+
+		echo
+		echo gext -F install "${the_extension_id}"
+		gext -F install "${the_extension_id}"
+		echo
+
+	fi
 
 
 	local the_extensions_root_dir_path="${HOME}/.local/share/gnome-shell/extensions"
