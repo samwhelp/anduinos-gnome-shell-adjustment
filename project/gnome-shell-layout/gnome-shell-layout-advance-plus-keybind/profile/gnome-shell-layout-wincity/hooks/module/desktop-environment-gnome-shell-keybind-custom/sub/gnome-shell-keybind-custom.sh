@@ -35,13 +35,31 @@ sys_gnome_shell_keybind_custom_each_install_via_dconf () {
 
 }
 
-
-
 sys_gnome_shell_keybind_custom_each_dconf_load_config () {
 
 	local the_config_id="${1}"
 
-	local the_config_file_path="${base_dir_path}/asset/config/${the_config_id}/dconf-db/gnome-shell-keybind-custom.conf"
+	local the_config_dconf_db_dir_path="${base_dir_path}/asset/config/${the_config_id}/dconf-db"
+
+	if ! [ -e "${the_config_dconf_db_dir_path}" ]; then
+		return
+	fi
+
+
+	local the_config_file_path=""
+
+	for the_config_file_path in "${the_config_dconf_db_dir_path}"/*; do
+
+		sys_gnome_shell_keybind_custom_each_dconf_load_config_file "${the_config_file_path}"
+
+	done
+
+
+}
+
+sys_gnome_shell_keybind_custom_each_dconf_load_config_file () {
+
+	local the_config_file_path="${1}"
 
 	if ! [ -e "${the_config_file_path}" ]; then
 		return
