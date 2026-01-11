@@ -9,7 +9,7 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/gnome-shell-enhance/blob/main/prototype/gnome-shell-layout-switcher/installer/gnome-extensions-cli-installer.sh
+## * https://github.com/samwhelp/anduinos-gnome-shell-adjustment/blob/main/project/gnome-shell-layout/gnome-shell-layout-basic/installer/gnome-extensions-cli/install.sh#L30
 ##
 
 
