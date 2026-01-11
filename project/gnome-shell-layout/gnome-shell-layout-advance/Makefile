@@ -13,6 +13,9 @@ help:
 	@echo '	$$ make layout-maccity'
 	@echo '	$$ make layout-wincity'
 	@echo
+	@echo '	$$ make switch-maccity'
+	@echo '	$$ make switch-wincity'
+	@echo
 .PHONY: help
 
 
@@ -26,6 +29,18 @@ layout-maccity:
 layout-wincity:
 	./profile/gnome-shell-layout-wincity/install.sh
 .PHONY: layout-wincity
+
+
+
+
+switch-maccity:
+	./profile/gnome-shell-layout-maccity/switch.sh
+.PHONY: switch-maccity
+
+
+switch-wincity:
+	./profile/gnome-shell-layout-wincity/switch.sh
+.PHONY: switch-wincity
 
 
 
