@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 
 
-#echo "run: ${0}"
+## path
+base_dir_path="$(dirname "$(realpath "${0}")")"
+plan_dir_path="${base_dir_path}"
 
 
-
-
-ONLY_SWITCH=true ./install.sh
+## run install.sh only_switch
+ONLY_SWITCH=true "${plan_dir_path}/install.sh"

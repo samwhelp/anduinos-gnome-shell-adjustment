@@ -94,12 +94,17 @@ sys_gnome_shell_extensions_each_install_via_gext () {
 	local the_extensions_root_dir_path="${HOME}/.local/share/gnome-shell/extensions"
 	local the_extension_schemas_dir_path="${the_extensions_root_dir_path}/${the_extension_id}/schemas"
 
-	mkdir -p "${the_extension_schemas_dir_path}"
 
-	echo
-	echo glib-compile-schemas "${the_extension_schemas_dir_path}"
-	glib-compile-schemas "${the_extension_schemas_dir_path}"
-	echo
+	if [ "${ONLY_SWITCH}" != "true" ]; then
+
+		mkdir -p "${the_extension_schemas_dir_path}"
+
+		echo
+		echo glib-compile-schemas "${the_extension_schemas_dir_path}"
+		glib-compile-schemas "${the_extension_schemas_dir_path}"
+		echo
+
+	fi
 
 
 	#sys_gnome_shell_extensions_each_copy_to_skel_dir "${the_extension_id}"
