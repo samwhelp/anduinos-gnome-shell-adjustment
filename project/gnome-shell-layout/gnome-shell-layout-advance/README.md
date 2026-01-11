@@ -1,6 +1,6 @@
 
 
-# Gnome Shell / Layout
+# Gnome Shell / Layout / Advance
 
 
 
@@ -28,5 +28,8 @@ Example:
 
 	$ make layout-maccity
 	$ make layout-wincity
+
+	$ make switch-maccity
+	$ make switch-wincity
 
 ```
