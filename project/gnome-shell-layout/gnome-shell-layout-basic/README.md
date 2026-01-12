@@ -1,6 +1,6 @@
 
 
-# Gnome Shell / Layout / Basic
+# Gnome Shell / Layout
 
 
 

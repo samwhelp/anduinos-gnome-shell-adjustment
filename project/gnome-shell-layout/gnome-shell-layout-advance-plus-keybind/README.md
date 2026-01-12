@@ -1,6 +1,6 @@
 
 
-# Gnome Shell / Layout / Advance
+# Gnome Shell / Layout
 
 
 
