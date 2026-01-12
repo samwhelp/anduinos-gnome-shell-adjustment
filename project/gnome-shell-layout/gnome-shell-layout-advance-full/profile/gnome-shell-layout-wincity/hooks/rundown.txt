@@ -4,3 +4,4 @@ desktop-environment-gnome-shell-config-main
 desktop-environment-gnome-shell-config-main
 desktop-environment-gnome-shell-keybind-main
 desktop-environment-gnome-shell-keybind-custom
+desktop-environment-gnome-shell-tool-main
