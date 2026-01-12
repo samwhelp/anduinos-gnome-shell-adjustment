@@ -11,6 +11,7 @@ help:
 	@echo '	$$ make help'
 	@echo
 	@echo '	$$ make install'
+	@echo '	$$ make switch'
 	@echo
 .PHONY: help
 
@@ -20,3 +21,10 @@ help:
 install:
 	./install.sh
 .PHONY: install
+
+
+
+
+switch:
+	./switch.sh
+.PHONY: switch
