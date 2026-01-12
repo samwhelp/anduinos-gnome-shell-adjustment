@@ -48,7 +48,7 @@ sys_gnome_shell_keybind_custom_each_dconf_load_config () {
 
 	local the_config_file_path=""
 
-	for the_config_file_path in "${the_config_dconf_db_dir_path}"/*; do
+	for the_config_file_path in "${the_config_dconf_db_dir_path}"/*.conf; do
 
 		sys_gnome_shell_keybind_custom_each_dconf_load_config_file "${the_config_file_path}"
 
