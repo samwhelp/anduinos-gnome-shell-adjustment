@@ -27,6 +27,5 @@ Example:
 	$ make help
 
 	$ make install
-	$ make switch
 
 ```
