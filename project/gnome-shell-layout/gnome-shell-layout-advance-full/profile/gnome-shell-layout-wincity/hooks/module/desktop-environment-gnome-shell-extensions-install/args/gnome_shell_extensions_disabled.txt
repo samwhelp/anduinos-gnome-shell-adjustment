@@ -2,6 +2,3 @@ apps-menu@gnome-shell-extensions.gcampax.github.com
 places-menu@gnome-shell-extensions.gcampax.github.com
 window-list@gnome-shell-extensions.gcampax.github.com
 dash-to-dock@micxgx.gmail.com
-accent-gtk-theme@brgvos
-accent-icons-theme@brgvos
-accent-user-theme@brgvos
