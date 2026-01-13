@@ -21,3 +21,15 @@
 | ----------- | ---- |
 | [gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) | for install extension |
 | [pipx](https://github.com/pypa/pipx) | for install gnome-extensions-cli |
+
+> run to install [pipx](https://packages.ubuntu.com/questing/pipx)
+
+``` sh
+sudo apt-get install pipx
+```
+
+> run to install gnome-extensions-cli (gext)
+
+``` sh
+sudo pipx install gnome-extensions-cli --global
+```
