@@ -55,7 +55,7 @@ sudo apt-get install gnome-shell-extension-manager gnome-shell-extension-prefs g
 
 > Install Command
 
-Execute the following command to install Package: [gnome-tweaks](https://packages.ubuntu.com/questing/gnome-tweaks)。
+Execute the following command to install Package: [gnome-tweaks](https://packages.ubuntu.com/questing/gnome-tweaks).
 
 ``` sh
 sudo apt-get install gnome-tweaks
