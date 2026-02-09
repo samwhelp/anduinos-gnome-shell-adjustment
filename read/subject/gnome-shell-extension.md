@@ -20,7 +20,9 @@ has_children: true
 
 ## Summary
 
-> [src/mods/26-gnome-extensions-installer/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.5/src/mods/26-gnome-extensions-installer/install.sh#L54-L69)
+> AnduinOS Gnome Shell Extension
+
+* [src/mods/26-gnome-extensions-installer/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.5/src/mods/26-gnome-extensions-installer/install.sh#L54-L69)
 
 | Gnome Extensions | Source |
 | ---------------- | ------ |
