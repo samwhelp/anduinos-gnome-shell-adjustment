@@ -13,7 +13,7 @@ has_children: true
 ## Subject
 
 * [Gnome Shell Extension Management Tool](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension-management-tool.html)
-* [Summary](#Summary)
+* [Summary](#summary)
 
 
 
