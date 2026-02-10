@@ -16,6 +16,7 @@
 
 * [Script](#script)
 * [Keybind](#keybind)
+* [Extension](#extension)
 * [Link](#link)
 
 
@@ -35,6 +36,16 @@
 ## Keybind
 
 > [AnduinOS Gnome Shell Keybind Cheatsheet](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/cheatsheet/keybind.html)
+
+
+
+
+## Extension
+
+| Extension |
+| --------- |
+| [Gnome Shell Extension Management Tool ](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension-management-tool.html) |
+| [Gnome Shell Extension](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension.html) |
 
 
 
