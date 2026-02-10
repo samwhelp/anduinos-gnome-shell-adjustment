@@ -20,6 +20,8 @@
 ## Subject
 
 * [Script](#script)
+* [Keybind](#keybind)
+* [Extension](#extension)
 * [Link](#link)
 
 
@@ -32,6 +34,23 @@
 | [AnduinOS Gnome Shell Config](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
 | [AnduinOS Gnome Shell / Quick Adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+
+
+
+
+## Keybind
+
+> [AnduinOS Gnome Shell Keybind Cheatsheet](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/cheatsheet/keybind.html)
+
+
+
+
+## Extension
+
+| Extension |
+| --------- |
+| [Gnome Shell Extension Management Tool ](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension-management-tool.html) |
+| [Gnome Shell Extension](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension.html) |
 
 
 
