@@ -1,6 +1,6 @@
 ---
 title: about Image Viewer
-nav_order: 1070
+nav_order: 1080
 has_children: false
 parent: How to customize
 grand_parent: Guide
