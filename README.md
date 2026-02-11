@@ -34,6 +34,14 @@
 
 
 
+| Layout |
+| ------ |
+| [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-wincity) |
+| [gnome-shell-layout-maccity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-maccity) |
+
+
+
+
 ## Keybind
 
 > [AnduinOS Gnome Shell Keybind Cheatsheet](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/cheatsheet/keybind.html)
