@@ -41,8 +41,8 @@ parent: Cheatsheet
 
 ## System / Exit
 
-| Keybind            | Action                   | Command                           |
-| ------------------ | ------------------------ | --------------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + Shift + z`  | Shutdown                 | sapwn `gnome-session-quit --power-off`  |
 | `Alt + Shift + x`  | Logout                   | sapwn `gnome-session-quit --logout`     |
 
@@ -56,8 +56,8 @@ parent: Cheatsheet
 
 > `org.gnome.desktop.wm.keybindings`
 
-| Keybind     | Action                  | Command             |
-| ----------- | ----------------------- | ------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + F1`  | Toggle Show ArcMenu     |  |
 | `Alt + F2`  | Toggle Show Runner      | `panel-run-dialog`  |
 
@@ -66,8 +66,8 @@ parent: Cheatsheet
 
 ## Application / Lanuch via Rofi
 
-| Keybind            | Action            | Command                                |
-| ------------------ | ----------------- | -------------------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + Shift + d`  | Rofi show drun    | spawn `rofi -show drun -show-icons`    |
 | `Alt + Shift + w`  | Rofi show window  | spawn `rofi -show window -show-icons`  |
 | `Alt + Shift + r`  | Rofi show run     | spawn `rofi -show run`                 |
@@ -77,8 +77,8 @@ parent: Cheatsheet
 
 ## Application / Terminal
 
-| Keybind            | Action           | Command                 |
-| ------------------ | ---------------- | ----------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + Enter`      | Lanuch Terminal  | spawn `kgx`             |
 | `Alt + Shift + a`  | Lanuch Terminal  | spawn `kgx`             |
 | `Alt + Ctrl + a`   | Lanuch Terminal  | spawn `gnome-terminal`  |
@@ -86,8 +86,8 @@ parent: Cheatsheet
 | `Alt + Ctrl + t`   | Lanuch Terminal  | spawn `qterminal`       |
 
 
-| Keybind            | Action                     | Command                             |
-| ------------------ | -------------------------- | ----------------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + Shift + y`  | Lanuch Drop Down Terminal  | spawn `xfce4-terminal --drop-down`  |
 
 
@@ -95,8 +95,8 @@ parent: Cheatsheet
 
 ## Application / Favorite
 
-| Keybind            | Action                  | Command                                |
-| ------------------ | ----------------------- | -------------------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + Shift + f`  | Lanuch File Manager     | spawn `nautilus`                       |
 | `Alt + Shift + g`  | Lanuch File Manager     | spawn `thunar`                         |
 | `Alt + Shift + e`  | Lanuch Text Editor      | spawn `gnome-text-editor`              |
@@ -104,16 +104,16 @@ parent: Cheatsheet
 | `Alt + Shift + v`  | Lanuch Volume Control   | spawn `gnome-control-center sound`     |
 
 
-| Keybind            | Action                      | Command                                  |
-| ------------------ | --------------------------- | ---------------------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + Shift + s`  | Lanuch System Settings      | spawn `gnome-control-center`             |
 | `Alt + Ctrl + s`   | Lanuch Extensions Manager   | spawn `gnome-extensions-app`             |
 | `Win + Shift + s`  | Lanuch Display Settings     | spawn `gnome-control-center display`     |
 | `Win + Ctrl + s`   | Lanuch Appearance Settings  | spawn `gnome-control-center background`  |
 
 
-| Keybind       | Action                  | Command                       |
-| ------------- | ----------------------- | ----------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Ctrl + Esc`  | Lanuch Process Manager  | spawn `gnome-system-monitor`  |
 | `Win + p`     | Monitor Switch          | spawn `switch-monitor`        |
 
@@ -126,8 +126,8 @@ parent: Cheatsheet
 
 > `org.gnome.desktop.wm.keybindings`
 
-| Keybind        | Action                             | Command                      |
-| -------------- | ---------------------------------- | ---------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + Space`  | Toggle Show Window Menu            | `activate-window-menu`       |
 | `Win + q`      | Window Close                       | `close`                      |
 | `Win + f`      | Window Fullscreen                  | `toggle-fullscreen`          |
@@ -155,8 +155,8 @@ parent: Cheatsheet
 
 ## Switch / Window
 
-| Keybind      | Action             | Command                    |
-| ------------ | ------------------ | -------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Win + a`    | Focus Prev Window  | `switch-windows-backward`  |
 | `Win + s`    | Focus Next Window  | `switch-windows`           |
 
@@ -170,8 +170,8 @@ parent: Cheatsheet
 
 > `org.gnome.desktop.wm.keybindings`
 
-| Keybind    | Action                    | Command                      |
-| ---------- | ------------------------- | ---------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Alt + a`  | Switch to Prev Workspace  | `switch-to-workspace-left`   |
 | `Alt + s`  | Switch to Next Workspace  | `switch-to-workspace-right`  |
 
@@ -184,8 +184,8 @@ parent: Cheatsheet
 
 > `org.gnome.shell.keybindings`
 
-| Keybind       | Action                     | Command                    |
-| -------------- | ------------------------- | -------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Win + grave`  | Toggle Show Applications  | `toggle-application-view`  |
 | `Win + Tab`    | Toggle Show Activities    | `toggle-overview`          |
 
@@ -198,8 +198,8 @@ parent: Cheatsheet
 
 > `org.gnome.shell.keybindings`
 
-| Keybind    | Action                      | Command                  |
-| ---------- | --------------------------- | ------------------------ |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Win + m`  | Toggle Show Quick Settings  | `toggle-quick-settings`  |
 | `Win + n`  | Toggle Show Message Tray    | `toggle-message-tray`    |
 | `Win + v`  | Toggle Show Clipboard       |                          |
@@ -211,8 +211,8 @@ parent: Cheatsheet
 
 > `org.gnome.shell.keybindings`
 
-| Keybind              | Action                 | Command                     |
-| -------------------- | ---------------------- | --------------------------- |
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
 | `Print`              | Screenshot Fullscreen  | `screenshot`                |
 | `Win + Print`        | Screenshot Window      | `screenshot-window`         |
 | `Alt + Print`        | Screenshot App         | `show-screenshot-ui`        |
