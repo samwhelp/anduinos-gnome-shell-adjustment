@@ -16,7 +16,7 @@ parent: Cheatsheet
 * [Script](#script)
 * [System](#system)
 * [Application](#application)
-* [Window](#sindow)
+* [Window](#window)
 * [Switch](#switch)
 * [Misc](#misc)
 * [Screenshot](#screenshot)
