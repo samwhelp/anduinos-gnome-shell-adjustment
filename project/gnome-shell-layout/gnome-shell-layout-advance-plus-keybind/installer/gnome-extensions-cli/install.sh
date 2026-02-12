@@ -9,7 +9,7 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/anduinos-gnome-shell-adjustment/blob/main/project/gnome-shell-layout/gnome-shell-layout-advance-plus-keybind/installer/gnome-extensions-cli/install.sh#L30
+## * https://github.com/samwhelp/gnome-shell-adjustment/blob/main/project/gnome-shell-layout/gnome-shell-layout-basic/installer/gnome-extensions-cli/install.sh#L30
 ##
 
 
