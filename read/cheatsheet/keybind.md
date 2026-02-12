@@ -18,7 +18,7 @@ parent: Cheatsheet
 * [Application](#application)
 * [Window](#window)
 * [Switch](#switch)
-* [Misc](#misc)
+* [Panel](#panel)
 * [Screenshot](#screenshot)
 * [Project](#project)
 
@@ -194,7 +194,7 @@ parent: Cheatsheet
 
 
 
-## Misc
+## Panel
 
 > `org.gnome.shell.keybindings`
 
