@@ -189,7 +189,7 @@ parent: Cheatsheet
 | `Win + grave`              | Toggle Show Applications    | `toggle-application-view`             |
 | `Win + Tab`                | Toggle Show Activities      | `toggle-overview`                     |
 
-> The grave refers to the backticknot (`), the key above the Tab key.
+> The grave refers to the backtick (`), the key above the Tab key.
 
 
 
