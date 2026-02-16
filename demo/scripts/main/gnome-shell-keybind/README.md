@@ -5,10 +5,10 @@
 
 
 
-## Link
+## Subject
 
-* https://github.com/samwhelp/anduinos-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
-* https://raw.githubusercontent.com/samwhelp/anduinos-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
+* [Usage](#usage)
+* [Link](#link)
 
 
 
@@ -40,3 +40,12 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/anduinos-gnome-
 ``` sh
 bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/anduinos-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/anduinos-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh)"
 ```
+
+
+
+
+
+## Link
+
+* https://github.com/samwhelp/anduinos-gnome-shell-adjustment/blob/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
+* https://raw.githubusercontent.com/samwhelp/anduinos-gnome-shell-adjustment/refs/heads/main/demo/scripts/main/gnome-shell-keybind/gnome-shell-keybind.sh
