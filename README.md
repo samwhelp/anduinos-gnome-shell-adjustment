@@ -55,8 +55,8 @@
 
 
 
-| Layout |
-| ------ |
+| make Gnome Shell look like AnduinOS |
+| ----------------------------------- |
 | [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
 | [make-debian-look-like-anduinos](https://github.com/samwhelp/make-debian-look-like-anduinos) |
 | [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
