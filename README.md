@@ -15,6 +15,7 @@
 ## Subject
 
 * [Script](#script)
+* [Resource](#resource)
 * [Keybind](#keybind)
 * [Guide](#guide)
 * [Extension](#extension)
@@ -29,25 +30,28 @@
 | ------ |
 | [AnduinOS Gnome Shell Config](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
-
-
-
-
-| Simple Script |
-| ------------- |
 | [gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
-| [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-wincity) |
-| [gnome-shell-layout-maccity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/layout/gnome-shell-layout-maccity) |
 
 
 
 
-| [Layout](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout) |
-| ------ |
-| [gnome-shell-layout-wincity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-wincity) |
-| [gnome-shell-layout-maccity](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/project/gnome-shell-layout/gnome-shell-layout-advance-full/profile/gnome-shell-layout-maccity) |
+## Resource
+
+| Gnome Shell Enhance |
+| ------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
 
 
+| Gnome Shell Style  |
+| ------------------ |
+[make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Gnome Shell Layout |
+| ------------------ |
+| [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 
 
 | make Gnome Shell look like AnduinOS |
@@ -57,15 +61,6 @@
 | [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
 | [make-archlinux-look-like-anduinos](https://github.com/samwhelp/make-archlinux-look-like-anduinos) |
 | [make-voidlinux-look-like-anduinos](https://github.com/samwhelp/make-voidlinux-look-like-anduinos) |
-
-
-
-
-| Gnome Shell Resource |
-| -------------------- |
-| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
-| [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
-| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
 
 
@@ -111,6 +106,8 @@
 | [Ubuntu Gnome Shell Adjustment](https://samwhelp.github.io/ubuntu-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-gnome-shell-adjustment) |
 | [Fedora Gnome Shell Adjustment](https://samwhelp.github.io/fedora-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-gnome-shell-adjustment) |
 | [Archlinux Gnome Shell Adjustment](https://samwhelp.github.io/archlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-gnome-shell-adjustment) |
+| [Voidlinux Gnome Shell Adjustment](https://samwhelp.github.io/voidlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-gnome-shell-adjustment) |
+| [Solus Gnome Shell Adjustment](https://samwhelp.github.io/solus-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/Solus-gnome-shell-adjustment) |
 | [Manjaro Gnome Shell Adjustment](https://samwhelp.github.io/manjaro-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-gnome-shell-adjustment) |
 | [Garuda Gnome Shell Adjustment](https://samwhelp.github.io/garuda-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-gnome-shell-adjustment) |
 
