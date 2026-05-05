@@ -61,6 +61,7 @@
 | [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
 | [make-archlinux-look-like-anduinos](https://github.com/samwhelp/make-archlinux-look-like-anduinos) |
 | [make-voidlinux-look-like-anduinos](https://github.com/samwhelp/make-voidlinux-look-like-anduinos) |
+| [make-solus-look-like-anduinos](https://github.com/samwhelp/make-solus-look-like-anduinos) |
 
 
 
