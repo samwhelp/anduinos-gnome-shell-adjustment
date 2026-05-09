@@ -56,3 +56,9 @@ GitHub Topics: [make-gnome-shell-look-like-anduinos](https://github.com/topics/m
 | ----------------- |
 | [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
 | [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Gnome Shell Layout Switcher |
+| --------------------------- |
+| Pardus / pardus-gnome-greeter / [LayoutManager](https://github.com/pardus/pardus-gnome-greeter/blob/master/src/pardus_gnome_greeter/managers/LayoutManager.py) / [layout_config.json](https://github.com/pardus/pardus-gnome-greeter/blob/master/data/json/layout_config.json) |
+| Manjaro / [gnome-layout-switcher](https://gitlab.manjaro.org/applications/gnome-layout-switcher) |
