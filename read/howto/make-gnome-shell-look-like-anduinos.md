@@ -16,6 +16,7 @@ parent: Howto
 * [Discussions](#discussions)
 * [Script](#script)
 * [Link](#link)
+* [Case](#case)
 
 
 
@@ -57,6 +58,10 @@ GitHub Topics: [make-gnome-shell-look-like-anduinos](https://github.com/topics/m
 | [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
 | [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
+
+
+
+## Case
 
 | Gnome Shell Layout Switcher |
 | --------------------------- |
