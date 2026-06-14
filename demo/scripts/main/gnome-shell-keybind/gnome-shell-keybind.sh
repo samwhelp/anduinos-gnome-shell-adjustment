@@ -253,7 +253,7 @@ name='Wallpaper_Shuf'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/web-browser]
 binding='<Shift><Alt>b'
-command='firefox-esr --new-tab about:blank'
+command='firefox --new-tab about:blank'
 name='Web_Browser'
 
 
