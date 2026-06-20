@@ -22,9 +22,9 @@
 * [Script](#script)
 * [Resource](#resource)
 * [Keybind](#keybind)
+* [ISO](#iso)
 * [Guide](#guide)
 * [Extension](#extension)
-* [ISO](#iso)
 * [Link](#link)
 
 
