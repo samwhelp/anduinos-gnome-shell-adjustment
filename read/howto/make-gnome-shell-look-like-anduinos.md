@@ -1,6 +1,6 @@
 ---
 title: make Gnome Shell look like AnduinOS
-nav_order: 7041
+nav_order: 7010
 has_children: true
 parent: Howto
 ---
