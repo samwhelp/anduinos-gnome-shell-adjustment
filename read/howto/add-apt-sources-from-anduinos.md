@@ -17,6 +17,9 @@ parent: Howto
 
 * [Discussions](#discussions)
 * [Description](#description)
+* [Environment](#environment)
+* [Usage](#usage)
+* [Howto](#howto)
 
 
 
