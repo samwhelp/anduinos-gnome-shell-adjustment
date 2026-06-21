@@ -17,6 +17,9 @@ parent: Howto
 
 * [Discussions](#discussions)
 * [Description](#description)
+* [Samples](#samples)
+* [Rundown](#rundown)
+* [Custom Modules](#custom-modules)
 
 
 
@@ -86,24 +89,3 @@ I have added the following new modules.
 | [base-gsettings-schema-compile](https://github.com/samwhelp/AnduinOS-2/tree/main-respin/mods/base-gsettings-schema-compile) |  |
 
 For more details, please refer to the README.md file in each module.
-
-
-
-
-## Summary
-
-I have no intention of turning it into a distribution, so I haven't provided an ISO File after it's been generated.
-
-The above sharing is merely to provide my modification ideas and a completed sample.
-
-My intention is simply to provide a reference for those interested in customizing AnduinOS ISO File.
-
-It might inspire new ideas and allow you to enjoy the fun of doing things yourself.
-
-Perhaps it can generate an AnduinOS ISO File that suits your personal preferences.
-
-Finally, I would like to thank @Anduin2017.
-
-It seems he put a lot of effort into foundation about AnduinOS and shared his results.
-
-With this foundation, we can more easily build an AnduinOS ISO File tailored to our individual needs.
