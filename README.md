@@ -19,6 +19,7 @@
 * [Keybind](#keybind)
 * [ISO](#iso)
 * [Guide](#guide)
+* [Howto](#howto)
 * [Extension](#extension)
 * [Link](#link)
 
@@ -93,6 +94,17 @@
 | [Guide](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/guide.html) |
 | ----- |
 | [How to customize](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/guide/customize.html) |
+
+
+
+
+## Howto
+
+| [Howto](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/howto.html) |
+| ----- |
+| [make Gnome Shell look like AnduinOS](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/howto/make-gnome-shell-look-like-anduinos.html) |
+| [Custom AnduinOS-2 iso build script](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/howto/custom-anduinos-iso-build-script.html) |
+| [Add apt sources from AnduinOS](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/howto/add-apt-sources-from-anduinos.html) |
 
 
 
