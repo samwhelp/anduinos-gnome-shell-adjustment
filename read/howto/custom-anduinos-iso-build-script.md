@@ -88,4 +88,4 @@ I have added the following new modules.
 | [base-dconf-db-update](https://github.com/samwhelp/AnduinOS-2/tree/main-respin/mods/base-dconf-db-update) |  |
 | [base-gsettings-schema-compile](https://github.com/samwhelp/AnduinOS-2/tree/main-respin/mods/base-gsettings-schema-compile) |  |
 
-For more details, please refer to the README.md file in each module.
+For more details, please refer to the `README.md` file in each module.
