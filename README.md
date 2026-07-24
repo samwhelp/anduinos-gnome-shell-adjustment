@@ -21,7 +21,6 @@
 * [ISO](#iso)
 * [Guide](#guide)
 * [Howto](#howto)
-* [Extension](#extension)
 * [Link](#link)
 
 
@@ -124,16 +123,6 @@
 | [make Gnome Shell look like AnduinOS](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/howto/make-gnome-shell-look-like-anduinos.html) |
 | [Custom AnduinOS-2 iso build script](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/howto/custom-anduinos-iso-build-script.html) |
 | [Add apt sources from AnduinOS](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/howto/add-apt-sources-from-anduinos.html) |
-
-
-
-
-## Extension
-
-| Extension |
-| --------- |
-| [Gnome Shell Extension Management Tool](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension-management-tool.html) |
-| [Gnome Shell Extension](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension.html) |
 
 
 
