@@ -21,6 +21,15 @@ has_children: true
 
 ## Summary
 
+> Gnome Shell Extension
+
+| Gnome Shell Extension | Source | Info |
+| --------------------- | ------ | ---- |
+| [date-menu-formatter@marcinjakubowski.github.com](https://extensions.gnome.org/extension/4655/date-menu-formatter/) | [Source](https://github.com/marcinjakubowski/date-menu-formatter) | [Info](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension/date-menu-formatter.html) |
+
+
+
+
 > AnduinOS-1 Gnome Shell Extension
 
 * [src/mods/26-gnome-extensions-installer/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.4/src/mods/26-gnome-extensions-installer/install.sh#L54-L69)
