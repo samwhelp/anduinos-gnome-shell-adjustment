@@ -17,6 +17,7 @@
 * [Script](#script)
 * [Resource](#resource)
 * [Keybind](#keybind)
+* [Extension](#extension)
 * [ISO](#iso)
 * [Guide](#guide)
 * [Howto](#howto)
@@ -75,6 +76,16 @@
 
 
 
+## Extension
+
+| Extension |
+| --------- |
+| [Gnome Shell Extension Management Tool](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension-management-tool.html) |
+| [Gnome Shell Extension](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension.html) |
+
+
+
+
 ## ISO
 
 ## Build ISO
@@ -92,6 +103,7 @@
 | Remix | Respin |
 | ----- | ------ |
 | [anduinos-iso-builder-remix-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | [anduinos-iso-builder-respin-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell) |
+| [anduinos-iso-builder-remix-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell-with-calamares) | [anduinos-iso-builder-respin-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell-with-calamares) |
 
 
 

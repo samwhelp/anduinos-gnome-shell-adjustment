@@ -14,18 +14,20 @@ has_children: true
 
 * [Gnome Shell Extension Management Tool](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/read/subject/gnome-shell-extension-management-tool.html)
 * [Summary](#summary)
+* [Project](#project)
 
 
 
 
 ## Summary
 
-> AnduinOS Gnome Shell Extension
+> AnduinOS-1 Gnome Shell Extension
 
-* [src/mods/26-gnome-extensions-installer/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.5/src/mods/26-gnome-extensions-installer/install.sh#L54-L69)
+* [src/mods/26-gnome-extensions-installer/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.4/src/mods/26-gnome-extensions-installer/install.sh#L54-L69)
 
-| Gnome Extensions | Source |
-| ---------------- | ------ |
+
+| Gnome Shell Extension | Source |
+| --------------------- | ------ |
 | [accent-gtk-theme@brgvos](https://extensions.gnome.org/extension/8497/accent-gtk-theme/) | [Source](https://github.com/florintanasa/accent-gtk-theme) |
 | [accent-user-theme@brgvos](https://extensions.gnome.org/extension/8498/accent-user-theme/) | [Source](https://github.com/florintanasa/accent-user-theme) |
 | [accent-icons-theme@brgvos](https://extensions.gnome.org/extension/8499/accent-icons-theme/) | [Source](https://github.com/florintanasa/accent-icons-theme) |
@@ -40,3 +42,23 @@ has_children: true
 | [tiling-assistant@leleat-on-github](https://extensions.gnome.org/extension/3733/tiling-assistant/) | [Source](https://github.com/Leleat/Tiling-Assistant) |
 | [mediacontrols@cliffniff.github.com](https://extensions.gnome.org/extension/4470/media-controls/) | [Source](https://github.com/sakithb/media-controls) |
 | [clipboard-indicator@tudmotu.com](https://extensions.gnome.org/extension/779/clipboard-indicator/) | [Source](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) |
+
+
+
+
+## Project
+
+| make Gnome Shell look like AnduinOS |
+| ----------------------------------- |
+| [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
+| [make-debian-look-like-anduinos](https://github.com/samwhelp/make-debian-look-like-anduinos) |
+| [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
+| [make-archlinux-look-like-anduinos](https://github.com/samwhelp/make-archlinux-look-like-anduinos) |
+| [make-voidlinux-look-like-anduinos](https://github.com/samwhelp/make-voidlinux-look-like-anduinos) |
+| [make-solus-look-like-anduinos](https://github.com/samwhelp/make-solus-look-like-anduinos) |
+
+
+| Gnome Shell Layout |
+| ------------------ |
+| [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
