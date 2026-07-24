@@ -96,6 +96,7 @@
 | Remix | Respin |
 | ----- | ------ |
 | [anduinos-iso-builder-remix-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell) | [anduinos-iso-builder-respin-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell) |
+| [anduinos-iso-builder-remix-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-remix-gnome-shell-with-calamares) | [anduinos-iso-builder-respin-gnome-shell-with-calamares](https://github.com/samwhelp/anduinos-iso-builder-respin-gnome-shell-with-calamares) |
 
 
 
